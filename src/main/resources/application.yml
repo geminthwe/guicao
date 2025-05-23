@@ -18,10 +18,10 @@ spring:
     password: root
   #minio配置
   minio:
-    access-key: gioyzhiNsLSJumY4ixeP
-    secret-key: nhD2nKQtyucwMgqsGHfX2S0UteKNMoQNTYLcNnSN
-    url: http://127.0.0.1:9001  #访问地址
-    bucket-name: image
+    access-key:
+    secret-key:
+    url:   #访问地址
+    bucket-name:
 
 server:
   port: 8081
@@ -52,5 +52,5 @@ email:
 
 sms:
   config:
-    AccessKeyID: LTAI5tSPx1v4qLUdPfK6hKZ7
-    AccessKeySecret: saTCFNVUjJTLEUhBcKXmmhNUIGIYoc
+    AccessKeyID:
+    AccessKeySecret:
